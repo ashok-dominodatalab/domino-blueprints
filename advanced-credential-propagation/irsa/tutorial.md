@@ -94,12 +94,12 @@ the `exp` attributes populated.
       "uid": "210cd280-1fe8-41ef-af96-53af291fccea"
     },
     "serviceaccount": {
-      "name": "john-doe",
+      "name": "sa-john-doe",
       "uid": "314ffbf4-d847-4680-bbf9-e521aabe86a7"
     }
   },
   "nbf": 1674668867,
-  "sub": "system:serviceaccount:domino-compute:john-doe"
+  "sub": "system:serviceaccount:domino-compute:sa-john-doe"
 }
 ```
 
